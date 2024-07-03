@@ -9,7 +9,7 @@ const Navbar = () => {
     <li> <a href="#"> About Us </a> </li>
     </>
   return (
-    <div>
+    <div className='mt-6 max-w-6xl mx-auto'>
       <div className="navbar bg-base-100">
         <div className="navbar-start">
           <div className="dropdown">
