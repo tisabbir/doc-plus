@@ -6,8 +6,8 @@ const WhoWeAre = () => {
     <div className="flex gap-32 mt-24 ">
       <div className="flex-1 space-y-4">
         <button className="btn border border-black rounded-3xl bg-white">Who We Are</button>
-        <h1 className="text-4xl text-[#020043] font-semibold">We Help To Get Solutions</h1>
-        <p className="text-[#4D4C7B] pb-10">
+        <h1 className="text-4xl text-[#020043] font-semibold">We Help To Get <br />Solutions</h1>
+        <p className="text-[#4D4C7B] pb-10 max-w-[470px]">
           We are proud to be a trusted healthcare provider in our community, and
           we look forward to serving you and your family with excellence,
           integrity, and compassion. Your health is our priority, and we are
