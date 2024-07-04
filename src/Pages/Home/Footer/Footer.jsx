@@ -2,7 +2,7 @@ import logoAlt from "../../../assets/logo-footer.png";
 import { FaFacebook, FaInstagram, FaLinkedin, FaYoutube } from "react-icons/fa";
 const Footer = () => {
   return (
-    <div className="mt-12 bg-[#020043] p-12">
+    <div className="mt-40 bg-[#020043] p-12">
       <footer className=" max-w-6xl mx-auto text-[#FFFFF5] p-10">
         <img src={logoAlt} />
         <div className="footer mt-6">
